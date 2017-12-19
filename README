@@ -1,0 +1,2 @@
+Spotify song finder made with meteor. Using jss, html, css, json.
+Not entirely functional since spotify changed the way their API is queried and I don't understand how it works now.
